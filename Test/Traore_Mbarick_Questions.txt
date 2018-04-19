@@ -1,0 +1,62 @@
+1. Who is the current president of U.S?
+      A. Mbarick Traore
+      B. Borack Obama
+      C. Tim Rogers
+      D. Donald Trump    
+2. What is the most populated country in the world? 
+      A. China
+      B. India
+      C. United States
+      D. Nigeria
+3. Where is UMBC located? 
+      A. Washington DC
+      B. Baltimore
+      C. Frederick
+      D. Silver Spring
+4. What is the name of Baltimore Football team?
+      A. Redskins
+      B. Ravens
+      C. Giants
+      D. Eagles
+5. What is the bigest animal in the world?
+      A. Elephant
+      B. Lion
+      C. Rhino
+      D. Blue whale
+6. What is the highest selling car in the world? 
+      A. Toyota
+      B. Honda
+      C. Nissan 
+      D. Mercedez 
+7. What is the most popular sport in the world?
+      A. Football
+      B. Tennis 
+      C. Soccer
+      D. Basketball
+8. Who is the president of UMBC?
+      A. Freeman A. Hrabowski
+      B. Bill Clinton
+      C. Carolyn Seamon
+      D. Dana Smith
+9. What is the most populated state in U.S? 
+      A. Texas
+      B. California  
+      C. New York
+      D. Florida
+10. Who is the 1st President of United States?
+      A. George Washington
+      B. Thomas Jefferson
+      C. Abraham Lincoln
+      D. George W. Bush
+
+Correct Answers:
+1  = D
+2  = A
+3  = B
+4  = B
+5  = D
+6  = A
+7  = C
+8  = A
+9  = B
+10 = A
